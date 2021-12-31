@@ -1,11 +1,11 @@
 
                                         Assignment-1
 1.	Values		: ‘hello’ -87.8, 6
-Expression		: *, -, /, +
+    Expression		: *, -, /, +
 2.	String is a value which is stored in the text and variable is the text which stores the value.
 3.	Integer – It represents some range of mathematical integers.
-String – It is used to represent text rather than numbers and it can also contain spaces      and numbers.
-Character- This stores strings of letters, numbers, and symbols.
+    String – It is used to represent text rather than numbers and it can also contain spaces and numbers.
+    Character- This stores strings of letters, numbers, and symbols.
 4.	An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. If u ask the expression to print it evaluates and prints the result. It is an instruction that combines values and operators and always evaluate down to a single value.
 5.	Evaluation of expression always produces a result value but Execution may or may not produce a result value, it only does whatever the statement says.
 6.	After running the code the variable bacon contain the string value of 22 which is stored in it.
